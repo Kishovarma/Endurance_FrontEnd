@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/revtwo/static/css/main.a3a3de13.css",
+    "main.js": "/revtwo/static/js/main.e967fc1f.js",
+    "static/media/bgvid3.mp4": "/revtwo/static/media/bgvid3.12a646b6f6bf771f3081.mp4",
+    "static/media/bipay.jpg": "/revtwo/static/media/bipay.9ddffbf21fb103c06c52.jpg",
+    "static/media/kavya_suha.jpg": "/revtwo/static/media/kavya_suha.0ba31035cc7a778137a0.jpg",
+    "static/media/endurancelogo.svg": "/revtwo/static/media/endurancelogo.12fc27113991954b2d34a4d4fa06aaf3.svg",
+    "static/media/pall.jpg": "/revtwo/static/media/pall.6c661da957e5f166cbc1.jpg",
+    "static/media/sarvs.jpeg": "/revtwo/static/media/sarvs.debceb9ecc78302f422f.jpeg",
+    "static/media/strength.png": "/revtwo/static/media/strength.7152f4c0c0a4ddc27535.png",
+    "static/media/bmibg.jpg": "/revtwo/static/media/bmibg.d4811804fc031c156746.jpg",
+    "static/media/dumbbell.png": "/revtwo/static/media/dumbbell.9f9ec1db738df56bb03c.png",
+    "static/media/weightloss.png": "/revtwo/static/media/weightloss.3e05472e8bdd854bd736.png",
+    "static/media/weightgain.png": "/revtwo/static/media/weightgain.32ad4e8b4fa43cca9c83.png",
+    "static/media/about-back-img.svg": "/revtwo/static/media/about-back-img.f0dd91d9cece8c21ca19bd784d0f7394.svg",
+    "static/media/bannerbg.png": "/revtwo/static/media/bannerbg.585600da7ff85661555e.png",
+    "index.html": "/revtwo/index.html",
+    "main.a3a3de13.css.map": "/revtwo/static/css/main.a3a3de13.css.map",
+    "main.e967fc1f.js.map": "/revtwo/static/js/main.e967fc1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3a3de13.css",
+    "static/js/main.e967fc1f.js"
+  ]
+}
